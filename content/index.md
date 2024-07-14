@@ -1,8 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Home
+draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the personal blog of **[[About Me|Riley Wheadon]]**, where I share my thoughts on mathematics, knowledge management, and philosophy.
 
-Testing testing 123.
+- `07/14/24`: [[How to Study Calculus]]

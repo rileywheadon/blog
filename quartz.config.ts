@@ -8,20 +8,20 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Riley's Notes",
+    pageTitle: "riley's reflections",
     enableSPA: true,
     enablePopovers: false,
     analytics: null, 
     locale: "en-US",
     baseUrl: "rileywheadon.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Proxima Nova",
+        body: "Poppins",
         code: "IBM Plex Mono",
       },
       colors: {
