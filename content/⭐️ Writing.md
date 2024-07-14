@@ -9,6 +9,8 @@ npx quartz build --serve
 npx quartz sync
 ```
 
+Use GPT-4 to edit and revise.
+
 ## Ideas
 
 - [ ] Write about my eczema experience (once its over)
