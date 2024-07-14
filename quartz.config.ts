@@ -20,8 +20,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Proxima Nova",
-        body: "Poppins",
+        header: "Merriweather",
+        body: "Montserrat",
         code: "IBM Plex Mono",
       },
       colors: {
