@@ -17,6 +17,9 @@ Use GPT-4 to edit and revise.
 - [ ] Blog post overview about arabidopsis and modelling
 - [ ] Write a proper post for canadian legislation visualization
 - [ ] Write about problems with mathematics education
+	- Discuss structuring university courses
+	- Low quality high school education
+- [ ] Blog post about zetamac (once I score 100)
 
 ## Drafts
 
