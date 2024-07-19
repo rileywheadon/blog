@@ -32,15 +32,16 @@ Use GPT-4 to edit and revise.
 	- Add techno optimism
 	- Add effective accelerationism
 	- Decentralization ([geohot](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html))
-- (I) [[Why Write?|Why I Write]]
 	- Add reasons to blog
+- (I) [[Learning Mental Math]]
 - (I) [[Use Your Keyboard|Use Your Keyboard]]
-- (I) [[How I Take Notes|How I Take Notes]]
 
 ---
 
+- (E) [[Why Write?|Why I Write]]
+- (E) [[How I Take Notes|How I Take Notes]]
 - (E) [[LaTeX Guide]]
-- (E) [[Fast Typesetting]]
+- (E) [[Fast Typesetting with Obsidian LaTeX Suite]]
 
 ---
 
