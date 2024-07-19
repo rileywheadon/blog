@@ -3,7 +3,7 @@ title: Ansatz Method
 draft: false
 ---
 
-**This is an example note for [[Fast Typesetting with Obsidian LaTeX Suite]]**.
+*This is an example note for [[Fast Typesetting with Obsidian LaTeX Suite]]*.
 
 >[!definition]+ Definition (Constant Coefficient ODE)
 >A **Constant Coefficient ODE** is a second order equation of the form:
