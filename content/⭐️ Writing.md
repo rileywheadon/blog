@@ -13,13 +13,11 @@ Use GPT-4 to edit and revise.
 
 ## Ideas
 
-- [ ] Write about my eczema experience (once its over)
-- [ ] Blog post overview about arabidopsis and modelling
-- [ ] Write a proper post for canadian legislation visualization
-- [ ] Write about problems with mathematics education
+- Write about my eczema experience (once its over)
+- Blog post overview about arabidopsis and modelling
+- Write about problems with mathematics education
 	- Discuss structuring university courses
 	- Low quality high school education
-- [ ] Blog post about zetamac (once I score 100)
 
 ## Drafts
 
@@ -34,14 +32,14 @@ Use GPT-4 to edit and revise.
 	- Decentralization ([geohot](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html))
 	- Add reasons to blog
 - (I) [[Learning Mental Math]]
-- (I) [[Use Your Keyboard|Use Your Keyboard]]
+- (I) [[Use Your Keyboard]]
+- (I) [[Havoc on the Hill]]
 
 ---
 
 - (E) [[Why Write?|Why I Write]]
 - (E) [[How I Take Notes|How I Take Notes]]
 - (E) [[LaTeX Guide]]
-- (E) [[Fast Typesetting with Obsidian LaTeX Suite]]
 
 ---
 
@@ -50,3 +48,4 @@ Use GPT-4 to edit and revise.
 - (P) [[index]]
 - (P) [[About Me]]
 - (P) [[How to Study Calculus]]
+- (P) [[Fast Typesetting with Obsidian LaTeX Suite]]
