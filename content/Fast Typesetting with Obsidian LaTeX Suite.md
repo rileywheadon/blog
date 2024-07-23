@@ -3,6 +3,8 @@ title: Fast Typesetting with Obsidian LaTeX Suite
 draft: false
 ---
 
+### July 19th, 2024
+
 If you've ever prepared a document with $\LaTeX$ before, you know that it can be a long and frustrating process. The language is built to create scientific papers, and it comes equipped to deal with the precise formatting that one would expect from such publications. But the cost of precision is time, and virtually nothing in $\LaTeX$ is designed to be done quickly. Every command requires the inconveniently located backslash key, and you'll probably get carpal tunnel from opening and closing the dreaded curly brackets every five keystrokes. To make matters worse, common mathematical symbols are often unreasonably verbose, like `\partial`, `\mathbb{R}`, or `\leftrightarrow`.
 
 However, not all is lost. This article will show you how to transform $\LaTeX$ from a monolith of confusing commands to a simple, customizable tool for taking notes in math and science classes. To do this, I will be using the personal knowledge management software [Obsidian](https://obsidian.md/). Using this technique, I have taught myself to typeset mathematics at the speed of my university lectures. I have produced hundreds of typeset notes that look like [[Example Note|this]]. By using [pandoc](https://pandoc.org/) to export my markdown files to PDF, I have also made typesetting written assignments *significantly* faster. If any of this sounds interesting to you, keep reading. I promise this is useful stuff.

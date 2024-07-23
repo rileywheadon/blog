@@ -1,7 +1,10 @@
 ---
 title: How to Study Calculus
 draft: false
+date: 2024-07-14
 ---
+
+### July 14th, 2024
 
 As of July 2024, I've been a TA for four first-year calculus courses at UBC. Students often ask me, "How do I succeed in this class?" or more frequently, "How do I pass this class?" Here's my advice.
 
